@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+.env/
+.venv/
+
+# Model YOLO
+model/*.pt
+
+# Cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
